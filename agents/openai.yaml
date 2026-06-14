@@ -1,0 +1,4 @@
+interface:
+  display_name: "humanizer"
+  short_description: "中文文本去 AI 味改写"
+  default_prompt: "Use $humanizer to rewrite this Chinese text so it sounds natural, specific, and human while preserving the original meaning."
